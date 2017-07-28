@@ -46,3 +46,9 @@ If either the "from" or "to" location are outside of the service area, the API s
   "cost": 80.0
 }
 ```
+
+## Follow up questions ##
+
+* What challenges are there with calculating in/out of service area?
+* How did you calculate the distance? Are there any problems with this approach? How could you do it differently?
+* Can you think of a way to group and cache quotations for similar pickup and drop-off locations? Eg. Two users in the same office building might send requests with very similar (but slightly different) lat,lng pairs.
