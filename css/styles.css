@@ -1,0 +1,9 @@
+body {
+	font: 1rem "Open Sans", Arial, sans-serif;
+}
+.container {
+	max-width: 980px;
+}
+header {
+	text-align: center;
+}
